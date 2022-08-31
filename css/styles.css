@@ -19,9 +19,25 @@
     text-decoration: none;
     margin: 1%;
     color: white;
+    font-family: 'Poppins', sans-serif;
  }
 
  h1 {
     color: darkblue;
     text-align: center;
+    font-family: 'Philosopher', sans-serif;
+ }
+
+ h2 {
+   font-family: 'Dancing Script', cursive;
+   text-align: left;
+   margin: 2% 2% 0% 5%;
+ }
+
+ table {
+   margin: 5%;
+ }
+
+ th {
+   font-family: 'Poppins', sans-serif;
  }
